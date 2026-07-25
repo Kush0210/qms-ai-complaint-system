@@ -1,0 +1,62 @@
+# =========================
+# Backend (Python / FastAPI)
+# =========================
+# Environments
+backend/venv/
+backend/env/
+.venv/
+env/
+
+# Environment Variables
+backend/.env
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Generated PDF Reports / Test files
+*.pdf
+backend/*.pdf
+frontend/*.pdf
+
+# =========================
+# Frontend (React / Node.js)
+# =========================
+# Dependencies
+frontend/node_modules/
+node_modules/
+
+# Generated / local files
+frontend/output.css
+frontend/.env.local
+frontend/.env.*.local
+
+# Production Build
+frontend/build/
+frontend/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# OS & Editor Files
+# =========================
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
