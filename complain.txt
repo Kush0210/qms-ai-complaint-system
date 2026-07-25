@@ -1,11 +1,2 @@
-Customer: Nexus Tech Solutions
-Complaint Source: IT Support Ticket #99281
-Product Name: Cloud Database Cluster (Enterprise Tier)
-Instance / Batch ID: CLD-DB-88392A
-Affected Quantity: 3 Database Nodes
-Deployment Date: 01 March 2026
-Contract Expiry Date: 01 March 2027
-Originating Site Block: Cloud Infrastructure
-Impacted Non-Product Materials (NPM): Virtual Storage Volumes
-Complaint Category: Unscheduled Downtime & Data Sync Failure
-Description: Nexus Tech Solutions experienced a critical failure on three of their enterprise database nodes. At 04:00 AM UTC, the nodes stopped synchronizing data across regions. There was no external attack or visible network damage. The client reported that the internal storage volumes became corrupted, leading to a complete service outage for 4 hours. The nodes have been quarantined and reverted to backups.
+Zenith Life Sciences rejected 500 kg of our bulk Ibuprofen API Batch IBU-993-26X produced in API Block B.
+Their inbound lab testing detected an unknown impurity peak of 0.15%, which exceeds our 0.10% maximum limit.

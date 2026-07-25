@@ -2,13 +2,13 @@
 # Backend (Python / FastAPI)
 # =========================
 # Environments
-backend/venv/
-backend/env/
+/backend/venv/
+/backend/env/
 .venv/
 env/
 
 # Environment Variables
-backend/.env
+/backend/.env
 .env
 
 # Python Cache
@@ -17,26 +17,22 @@ __pycache__/
 *$py.class
 *.so
 
-# Generated PDF Reports / Test files
-*.pdf
-backend/*.pdf
-frontend/*.pdf
 
 # =========================
 # Frontend (React / Node.js)
 # =========================
 # Dependencies
-frontend/node_modules/
+/frontend/node_modules/
 node_modules/
 
 # Generated / local files
-frontend/output.css
-frontend/.env.local
-frontend/.env.*.local
+/frontend/output.css
+/frontend/.env.local
+/frontend/.env.*.local
 
 # Production Build
-frontend/build/
-frontend/dist/
+/frontend/build/
+/frontend/dist/
 
 # Logs
 npm-debug.log*
